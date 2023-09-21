@@ -13,5 +13,5 @@ L'objectif de ce TP est d'implémenter notre propre version de la classe `ArrayL
 - à approfondir notre compréhension de la classe `ArrayList` que nous utilisons extrêmement souvent.
 ## Membres du projet
 
-- NOM, prénom, numéro de groupe, du premier participant
-- NOM, prénom, numéro de groupe, du deuxième participant
+- CHERCHEM, Sarah, 03
+- MEDERBEL, Inès, 03
